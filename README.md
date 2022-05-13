@@ -35,10 +35,11 @@ My most recent projects include:
 2) ⏰ [Hand-drawn clock image study](https://github.com/yecatevir/MADSmilestone2)
 3) 🏠 [Substandard Housing + COVID-19](https://github.com/yecatstevir/Project_Healthy_Homes/blob/main/Project.Healthy.Home.Final.Report.pdf) 
 
+
+
 Other papers and posters:
 
 🛡️ [Project Protect](https://github.com/yecatstevir/yecatstevir/blob/main/files/2104.08522.pdf)
-
 🦶 [Midfoot Arthritis Poster](https://github.com/yecatstevir/yecatstevir/blob/main/files/mfaposter%5B1%5D.ppt.png)
 
 
