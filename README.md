@@ -18,6 +18,8 @@ I am looking to relaunch my career in data science and have plans to take it as 
 data. My goal is to achieve success in this area of data science, but still continue to build an expert understanding in all areas of 
 machine and deep learning. 
 
+💼I am currently looking to break into my first data science role, humbled to learn and eager to face the challenges that help me grow in this discipline. 
+
  
 <div align="center">
 <a href="https://www.linkedin.com/in/staceyrivet/">
@@ -33,8 +35,12 @@ My most recent projects include:
 2) ⏰ [Hand-drawn clock image study](https://github.com/yecatevir/MADSmilestone2)
 3) 🏠 [Substandard Housing + COVID-19](https://github.com/yecatstevir/Project_Healthy_Homes/blob/main/Project.Healthy.Home.Final.Report.pdf) 
 
+Other papers and posters:
+[Project Protect] 
+[Midfoot Arthritis Poster]
 
-### Languages, Tools, and Skills 🛠
+
+#### Languages, Tools, and Skills 🛠
 <div align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
