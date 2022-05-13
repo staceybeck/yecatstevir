@@ -72,3 +72,5 @@ Other papers and posters:
 <img src='https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white' alt='googlecloud' />
 </div>
 
+##### Fun Fact
+:pippin-thumbnail: I was also an [artist/street artist](https://www.analog-monsters.com/) in San Francisco 
