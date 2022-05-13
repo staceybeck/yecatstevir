@@ -39,8 +39,8 @@ My most recent projects include:
 
 Other papers and posters:
 
-🛡️ [Project Protect](https://github.com/yecatstevir/yecatstevir/blob/main/files/2104.08522.pdf)
-🦶 [Midfoot Arthritis Poster](https://github.com/yecatstevir/yecatstevir/blob/main/files/mfaposter%5B1%5D.ppt.png)
+1) 🛡️ [Project Protect](https://github.com/yecatstevir/yecatstevir/blob/main/files/2104.08522.pdf)
+2) 🦶 [Midfoot Arthritis Poster](https://github.com/yecatstevir/yecatstevir/blob/main/files/mfaposter%5B1%5D.ppt.png)
 
 
 #### Languages, Tools, and Skills 🛠
