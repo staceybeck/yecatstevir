@@ -9,8 +9,7 @@ transitioned into Physical Therapy, receiving my masters and working in the fiel
 the Musculoskeletal system. I developed an interest in data during this time, especially wondering how data collected in iPhone accelerometers 
 could be used to help people perform rehabilitation exercises more effectively (biofeedback mechanisms). 
 
-🧮 I decided to finish my math sequence by taking multivariate calculus and linear alegbra, learn programming by taking data structures and algorithms in C++  
-as well as brush up on statistics and probability at local community colleges. 
+🧮 I decided to finish my math sequence by taking multivariate calculus and linear alegbra, learn programming by taking data structures and algorithms in C++ as well as brush up on statistics and probability at local community colleges. 
 
 👶 I took a work break to raise two young children while going back to school for my master in data science and now that I have graduated, 
 I am looking to relaunch my career in data science and have plans to take it as far as I am able. 
