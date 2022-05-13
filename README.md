@@ -73,4 +73,4 @@ Other papers and posters:
 </div>
 
 ##### Fun Fact
-:pippin-thumbnail: I was also an [artist/street artist](https://www.analog-monsters.com/) in San Francisco 
+![art](/Users/staceyrivet/Desktop/repo/yecatstevir/yecatstevir/files/thumbnail3.png) I was also an [artist/street artist](https://www.analog-monsters.com/) in San Francisco 
