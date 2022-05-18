@@ -32,7 +32,7 @@ machine and deep learning.
 
 My most recent projects include:  
 1) 🧠 [fMRI Research](https://github.com/yecatstevir/teambrainiac) We were a team of 3 applying SVM and 3D convolutional neural networks to temporal, 3D voxel brain data (fMRI) 
-2) ⏰ [Hand-drawn clock image study](https://github.com/yecatevir/MADSmilestone2)
+2) ⏰ [Hand-drawn clock image study](https://github.com/yecatstevir/MADSmilestone2)
 3) 🏠 [Substandard Housing + COVID-19](https://github.com/yecatstevir/Project_Healthy_Homes/blob/main/Project.Healthy.Home.Final.Report.pdf) 
 
 
