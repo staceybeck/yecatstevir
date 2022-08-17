@@ -1,24 +1,19 @@
 ### Hey there 👋
 
-I'm Stacey Beck, a recent graduate 🎓 from the Applied Data Science Master degree program at the University of 
+I'm a graduate 🎓 from the Applied Data Science Master degree program at the University of 
 Michigan! I have over 4 years of combined Python SQL and C++ programming experience. I enjoy interdisciplinary team collaboration,
 building complete pipelines, models, and analyzing and visualizing the results.         
 
-🏃‍I weaved my way into data science non-traditionally. I started out as a Biochemistry major at Ithaca College and 
-transitioned into Physical Therapy, receiving my masters and working in the field for over 10 years! I know a lot about Kinesiology and
-the Musculoskeletal system. I developed an interest in data during this time, especially wondering how data collected in iPhone accelerometers 
-could be used to help people perform rehabilitation exercises more effectively (biofeedback mechanisms). 
+🏃‍I weaved my way into data science non-traditionally. Started as a Biochem major and transitioned into Physical Therapy, working in the field for over 10 years! I developed an interest in data during this time, especially how data collected in iPhone accelerometers could be used to help people perform rehabilitation exercises more effectively. 
 
 🧮 I decided to finish my math sequence by taking multivariate calculus and linear alegbra, learn programming by taking data structures and algorithms in C++ as well as brush up on statistics and probability at local community colleges. 
 
-👶 I took a work break to raise two young children while going back to school for my master in data science and now that I have graduated, 
+👶 I took a work break to raise two young children while going back to school for my master's in data science and now that I have graduated, 
 I am looking to relaunch my career in data science and have plans to take it as far as I am able. 
 
 🖥️ I developed an interest in deep learning specifically with computer vision building convolutional neural networks and GANs for image
 data. My goal is to achieve success in this area of data science, but still continue to build an expert understanding in all areas of 
 machine and deep learning. 
-
-💼I am currently looking to break into my first data science role, humbled to learn and eager to face the challenges that help me grow in this discipline. 
 
  
 <div align="center">
