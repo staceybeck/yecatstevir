@@ -3,6 +3,7 @@
 I recently was a data scientist at Andela, where I worked on trying to solve matching talent to IT opportunities. I contributed to a recommender system project, worked on topic modeling and sentiment anaylsis for survey responses and was in charge of building a target dataset as well as defining features for a talent responsiveness model to predict the likelihood of someone applying to a job given an invite in order to reduce unnecessary matcher reach outs estimated to up to 20%.   
 
 I'm a graduate 🎓 from the Applied Data Science Master degree program at the University of Michigan. I have over 4 years of combined Python SQL and C++ programming experience. I enjoy interdisciplinary team collaboration, building complete pipelines, models, and analyzing and visualizing the results.         
+
 🏃‍I weaved my way into data science non-traditionally. Started as a Biochem major and transitioned into Physical Therapy, working in the field for over 10 years! I developed an interest in data during this time, especially how data collected in iPhone accelerometers could be used to help people perform rehabilitation exercises more effectively. 
 
 🧮 I decided to finish my math sequence by taking multivariate calculus and linear alegbra, learn programming by taking data structures and algorithms in C++ as well as brush up on statistics and probability at local community colleges. 
