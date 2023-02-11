@@ -1,9 +1,10 @@
 ### Hey there 👋
 
-🌱 I'm Stacey and I am a Western Upstate NY native living on the West Coast.
-🖥️ Data Scientist with a special interest in using generative AI and deep learning for healthcare/medical applications.
-🏃‍ Licensed Physical Therapist in the state of California.
-🎓 Graduate from the Applied Data Science Master degree program at the University of Michigan.
+
+🌱 I'm Stacey and I am a Western Upstate NY native living on the West Coast.\
+🖥️ Data Scientist with a special interest in using generative AI and deep learning for healthcare/medical applications.\
+🏃‍ Licensed Physical Therapist in the state of California.\
+🎓 Graduate from the Applied Data Science Master degree program at the University of Michigan.\
 👶 Mother of 2 awesome little humans!
 
  
