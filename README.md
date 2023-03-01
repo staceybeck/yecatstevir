@@ -19,9 +19,11 @@
 
 
 My most recent projects include:  
-1) 🧠 [fMRI Research](https://github.com/yecatstevir/teambrainiac) SVM and 3D convolutional neural networks used on temporal, 3D voxel brain data (fMRI). Poster presented at the real-time fMRI conference at Yale University 10/2022.  
-2) ⏰ [Hand-drawn clock image study](https://github.com/yecatstevir/MADSmilestone2)
-3) 🏠 [Substandard Housing + COVID-19](https://github.com/yecatstevir/Project_Healthy_Homes/blob/main/Project.Healthy.Home.Final.Report.pdf) 
+1) 💬 [SOAPNotes App](https://www.loom.com/share/09f2c5882fc245fea5f2f8f202ba6155) <-Loom Demonstration
+2) 👩‍🌾 [Farmers' Market Need Prediction](https://github.com/yecatstevir/farmer_market_food_insecurity) Estimating the need for farmers' markets in counties that don't already have a market.
+3) 🧠 [fMRI Research](https://github.com/yecatstevir/teambrainiac) SVM and 3D convolutional neural networks used on temporal, 3D voxel brain data (fMRI). Poster presented at the real-time fMRI conference at Yale University 10/2022.  
+4) ⏰ [Hand-drawn clock image study](https://github.com/yecatstevir/MADSmilestone2)
+5) 🏠 [Substandard Housing + COVID-19](https://github.com/yecatstevir/Project_Healthy_Homes/blob/main/Project.Healthy.Home.Final.Report.pdf) 
 
 
 Other papers and posters:
